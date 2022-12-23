@@ -71,6 +71,22 @@ Here, we can change the body color by changing style of body to: `<body style="b
 | `font-family` | defines the font to be used for an HTML element | `<p style="font-family:courier;">This is a paragraph.</p>` |
 | `font-size` | defines the text size for an HTML element | `<p style="font-size:160%;">This is a paragraph.</p>` |
 | `text-align`| defines the horizontal text alignment for an HTML element | `<p style="text-align:center;">Centered paragraph.</p>`|
+| `border` | setting a border of specific color | `<h1 style="border:2px solid DodgerBlue;">Hello World</h1>`|
+
+### Text Formatting
+Formatting elements were designed to display special types of text:
+| Formating element | explanation | Example |
+|-------------------|-------------|---------|
+| `<b>` | Bold text | `<b>This text is bold</b>` |
+|`<strong>`| Important text | `<strong>This text is important!</strong>` |
+| `<i>` | Italic text | `<i>This text is italic</i>` |
+| `<em>` |  Emphasized text  | `<em>This text is emphasized</em>` |
+| `<mark>` |  Marked text | `<mark>This text is marked or highlighted </mark>` |
+| `<small>` |  Smaller text | `<small>This is some smaller text.</small>` |
+| `<del>` |  Deleted text | `<del>text will be strikethrough </del>`|
+| `<ins>` |  Inserted text | `<del>blue</del> <ins>red</ins>` blue will be removed and red will be added.|
+| `<sub>` |  Subscript text |`x<sub>i</sub> ` is nothing but x_i|
+| `<sup>` | Superscript text | `x<sup>2</sup>` is nothing but x^2|
 
 ## Links
 HTML links are defined with the `<a>` tag and a link is added as: `<a href="url">link text</a>`
