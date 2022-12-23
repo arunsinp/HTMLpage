@@ -159,10 +159,13 @@ p {
 </body>
 </html>
 ```
-[](CSSOutput.png)
+
+<img src="CSSOutput.png" alt="Output">
+
 
 # Reference
 
 For more details, you can follow following reference
 
-[Reference:](https://www.w3schools.com/html/)
+1. [For reference follow https://www.w3schools.com/html/](https://www.w3schools.com/html/)
+2. [Youtube tutorial video](https://youtube.com/watch?v=RGOj5yH7evk&feature=shares)
