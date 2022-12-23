@@ -68,8 +68,7 @@ Here, we can change the body color by changing style of body to: `<body style="b
 |-----------|-------------|---------|
 |color      | for changing the color | for changing paragraph color`<p style="color:blue;">I am blue</p>` |
 | background-color | for changing background of something | for heading `<h1 style="background-color:powderblue;">This is a heading</h1>` |
-| font-family | defines the font to be used for an HTML element | `<h1 style="font-family:verdana;">This is a heading</h1>`
-`<p style="font-family:courier;">This is a paragraph.</p>` |
+| font-family | defines the font to be used for an HTML element | `<p style="font-family:courier;">This is a paragraph.</p>` |
 
 
 
