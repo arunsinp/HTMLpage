@@ -66,11 +66,11 @@ Here, we can change the body color by changing style of body to: `<body style="b
 
 |Style name | explanation | Example |
 |-----------|-------------|---------|
-|color      | for changing the color | for changing paragraph color`<p style="color:blue;">I am blue</p>` |
-| background-color | for changing background of something | for heading `<h1 style="background-color:powderblue;">This is a heading</h1>` |
-| font-family | defines the font to be used for an HTML element | `<p style="font-family:courier;">This is a paragraph.</p>` |
-
-
+|`color`      | for changing the color | for changing paragraph color`<p style="color:blue;">I am blue</p>` |
+| `background-color` | for changing background of something | for heading `<h1 style="background-color:powderblue;">This is a heading</h1>` |
+| `font-family` | defines the font to be used for an HTML element | `<p style="font-family:courier;">This is a paragraph.</p>` |
+| `font-size` | defines the text size for an HTML element | `<p style="font-size:160%;">This is a paragraph.</p>` |
+| `text-align`| defines the horizontal text alignment for an HTML element | `<p style="text-align:center;">Centered paragraph.</p>`|
 
 ## Links
 HTML links are defined with the `<a>` tag and a link is added as: `<a href="url">link text</a>`
