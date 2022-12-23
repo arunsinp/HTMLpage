@@ -127,10 +127,38 @@ CSS can be added to HTML documents in 3 ways:
 
 In the current repository, we have used External css style files. Some of the important terminology are as follows:
 - **CSS Colors, Fonts and Sizes:** 
-    * The CSS color property defines the text color to be used.
-    * The CSS font-family property defines the font to be used.
-    * The CSS font-size property defines the text size to be used.
+    * The CSS `color` property defines the text color to be used. Example: `color: blue;`.
+    * The CSS `font-family` property defines the font to be used. Example: `font-family: courier;`.
+    * The CSS `font-size` property defines the text size to be used. Example: `font-size: 160%;`.
+- **CSS Border:** The CSS border property defines a border around an HTML element. Example: `border: 2px solid powderblue;`.
+- **CSS Padding:** The CSS padding property defines a padding (space) between the text and the border. Example: `padding: 30px;`.
+- **CSS Margin:** The CSS margin property defines a margin (space) outside the border. Example: `margin: 50px;`.
+**Example code:**
+```
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {
+  color: blue;
+  font-family: verdana;
+  font-size: 300%;
+}
+p {
+  color: red;
+  font-family: courier;
+  font-size: 160%;
+}
+</style>
+</head>
+<body>
 
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
+```
 
 # Reference
 
