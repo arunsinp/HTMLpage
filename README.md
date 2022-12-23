@@ -54,14 +54,14 @@ HTML links are defined with the `<a>` tag and a link is added as: `<a href="url"
 
 The link's destination is specified in the `href` attribute. Attributes are used to provide additional information about HTML elements.
 
-        By default, the linked page will be displayed in the current browser window. To change this, you must specify another target for the link. The target attribute specifies where to open the linked document. The target attribute can have one of the following values:
+By default, the linked page will be displayed in the current browser window. To change this, you must specify another target for the link. The target attribute specifies where to open the linked document. The target attribute can have one of the following values:
 
-        * `_self` - Default. Opens the document in the same window/tab as it was clicked
-        * `_blank` - Opens the document in a new window or tab
-        * `_parent` - Opens the document in the parent frame
-        * `_top` - Opens the document in the full body of the window
+* `_self` - Default. Opens the document in the same window/tab as it was clicked
+* `_blank` - Opens the document in a new window or tab
+* `_parent` - Opens the document in the parent frame
+* `_top` - Opens the document in the full body of the window
     
-        So to open a link in a new tab, following can be used: `<a href="https://www.w3schools.com/" target="_blank">Visit W3Schools!</a>` 
+So to open a link in a new tab, following can be used: `<a href="https://www.w3schools.com/" target="_blank">Visit W3Schools!</a>` 
 
 ## Images
 HTML images are defined with the `<img>` tag. The source file (`src`), alternative text (`alt`), `width`, and `height` are provided as attributes:
