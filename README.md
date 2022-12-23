@@ -1,3 +1,6 @@
+
+<img width="1667" alt="Screenshot 2022-12-23 at 11 20 55 PM" src="https://user-images.githubusercontent.com/15100077/209410144-d968cacb-1154-4c93-b0d4-0c5210e4ceaf.png">
+
 # About this repository
 
 Here we have provided a very simple html file for the purpose of learning HTML. Here style file is also included. 
