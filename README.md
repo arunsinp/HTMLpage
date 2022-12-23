@@ -73,7 +73,7 @@ Here, we can change the body color by changing style of body to: `<body style="b
 | `text-align`| defines the horizontal text alignment for an HTML element | `<p style="text-align:center;">Centered paragraph.</p>`|
 | `border` | setting a border of specific color | `<h1 style="border:2px solid DodgerBlue;">Hello World</h1>`|
 
-### Text Formatting
+## Text Formatting
 Formatting elements were designed to display special types of text:
 | Formating element | explanation | Example |
 |-------------------|-------------|---------|
@@ -115,7 +115,14 @@ HTML images are defined with the `<img>` tag. The source file (`src`), alternati
 
 
 
+# CSS (Cascading Style Sheets)
+CSS stands for Cascading Style Sheets. With CSS, you can control the color, font, the size of text, the spacing between elements, how elements are positioned and laid out, what background images or background colors are to be used, different displays for different devices and screen sizes, and much more!
 
+CSS can be added to HTML documents in 3 ways:
+
+1. Inline - by using the `style` attribute inside HTML elements
+2. Internal - by using a `<style>` element in the `<head>` section
+3. External - by using a `<link>` element to link to an external CSS file
 
 
 
