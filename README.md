@@ -160,7 +160,7 @@ p {
 </html>
 ```
 
-<img src="CSSOutput.png" alt="Output" width="500" height="600">
+<img src="CSSOutput.png" alt="Output" width="250" height="100">
 
 
 # Reference
