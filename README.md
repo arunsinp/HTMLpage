@@ -2,7 +2,7 @@
 
 Here we have provided a very simple html file for the purpose of learning HTML. Here style file is also included. 
 
-## HTML Elements and attributes
+# HTML Elements and attributes
 The HTML element is everything from the start tag to the end tag. HTML attributes provide additional information about HTML elements.
 Attributes usually come in name/value pairs like: name="value"
 
