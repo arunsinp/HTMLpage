@@ -15,7 +15,6 @@ Here we have provided a very simple html file for the purpose of learning HTML. 
 
 
 
-
 # Reference
 
 For more details, you can follow following reference
