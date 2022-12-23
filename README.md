@@ -45,6 +45,30 @@ HTML paragraphs are defined with the `<p>` tag and are a paragraph is written in
 Your paragraph.
 </p>
 ```
+
+## Style 
+The HTML style attribute is used to add styles to an element, such as color, font, size, and more by using `<tagname style="property:value;">`.
+
+**Example:**
+```
+<!DOCTYPE html>
+<html>
+<body>
+<h1 style="color:blue;">This is a heading</h1>
+<p>I am normal</p>
+<p style="color:red;">I am red</p>  
+<p style="color:blue;">I am blue</p>
+<p style="font-size:50px;">I am big</p>
+</body>
+</html>
+```
+Here, we can change the body color by changing style of body to: `<body style="background-color:#1e90ff;"> Add something..... </body>`
+
+|Style name | explanation | Example |
+|-----------|-------------|---------|
+|color      | for changing the color | for changing paragraph color`<p style="color:blue;">I am blue</p>` |
+
+
 ## Links
 HTML links are defined with the `<a>` tag and a link is added as: `<a href="url">link text</a>`
 
@@ -61,7 +85,8 @@ By default, the linked page will be displayed in the current browser window. To 
 * `_parent` - Opens the document in the parent frame
 * `_top` - Opens the document in the full body of the window
     
-So to open a link in a new tab, following can be used: `<a href="https://www.w3schools.com/" target="_blank">Visit W3Schools!</a>` 
+So to open a link in a new tab, following can be used: `<a href="https://www.google.com/" target="_blank">Visit Google!</a>`. 
+
 
 ## Images
 HTML images are defined with the `<img>` tag. The source file (`src`), alternative text (`alt`), `width`, and `height` are provided as attributes:
