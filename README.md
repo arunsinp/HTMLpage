@@ -125,7 +125,11 @@ CSS can be added to HTML documents in 3 ways:
 3. External - by using a `<link>` element to link to an external CSS file
 
 
-
+In the current repository, we have used External css style files. Some of the important terminology are as follows:
+- **CSS Colors, Fonts and Sizes:** 
+    The CSS color property defines the text color to be used.
+    The CSS font-family property defines the font to be used.
+    The CSS font-size property defines the text size to be used.
 
 
 # Reference
