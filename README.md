@@ -6,6 +6,11 @@ Here we have provided a very simple html file for the purpose of learning HTML. 
 
 - All HTML documents must start with a document type declaration: `<!DOCTYPE html>`.
 - The HTML document itself begins with `<html>` and ends with `</html>`.
+    ```
+    <html>
+        Everything is added here.
+    </html>
+    ```
 - The visible part of the HTML document is between `<body>` and `</body>`.
 
 
