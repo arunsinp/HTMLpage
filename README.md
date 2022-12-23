@@ -159,7 +159,7 @@ p {
 </body>
 </html>
 ```
-**Output of the avove code:**
+**Output of the above code:**
 
 <img src="CSSOutput.png" alt="Output" width="250" height="100">
 
