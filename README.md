@@ -159,6 +159,7 @@ p {
 </body>
 </html>
 ```
+[](CSSOutput.png)
 
 # Reference
 
